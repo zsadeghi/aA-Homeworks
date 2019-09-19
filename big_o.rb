@@ -25,9 +25,9 @@ end
 
 class SluggishOctopus < Octopus
 
-    def initialize(fish_array)
-        super(fish_array)
-    end
+    # def initialize(fish_array)
+    #     super
+    # end
 
     def _find_longest(fish_array)
         longest = ""
