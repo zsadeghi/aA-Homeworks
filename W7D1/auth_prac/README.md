@@ -1,24 +1,22 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README consists of the Rails Auth Homework. In this example we want to build a User model
+for a Rails Auth system.
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version (2.5.1p57)
 
 * System dependencies
 
+  * requires PostgreSQL
+
 * Configuration
 
+ * Run `bundle install`
+
 * Database creation
+  
+ * `rails db:create`
 
 * Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ * `rails db:migrate`
