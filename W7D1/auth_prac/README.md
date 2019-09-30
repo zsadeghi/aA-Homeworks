@@ -11,12 +11,12 @@ for a Rails Auth system.
 
 * Configuration
 
- * Run `bundle install`
+  * Run `bundle install`
 
 * Database creation
   
- * `rails db:create`
+  * `rails db:create`
 
 * Database initialization
 
- * `rails db:migrate`
+  * `rails db:migrate`
